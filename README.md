@@ -22,7 +22,7 @@ Neste trabalho, são utilizados:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/Frankson18/weak-supervision-banking-queries
 cd seu-repo
 ```
 
