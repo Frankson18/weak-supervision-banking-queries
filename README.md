@@ -36,14 +36,14 @@ Reabra no Container
 poetry install
 poetry shell
 ```
-4. 
+4. Crie variaveis de ambiente
 
 ```
 Crie o arquivo .env com as 2 variavies, caso queira roda na integrar, baixando os dataset novamente ou rodando o gemini:
 HF_TOKEN='sua API_KEY'
 GOOGLE_API_KEY='sua API_KEY'
 ```
-4. Execute o notebook:
+5. Execute o notebook:
 ```bash
 jupyter notebook
 ```
