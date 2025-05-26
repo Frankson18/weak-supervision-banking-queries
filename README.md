@@ -23,7 +23,7 @@ Neste trabalho, são utilizados:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Frankson18/weak-supervision-banking-queries
-cd seu-repo
+cd weak-supervision-banking-queries
 ```
 
 2. Abra no VS Code com suporte a Dev Containers:
